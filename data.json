@@ -1,0 +1,16 @@
+[
+  {
+    "mapel": "Matematika",
+    "topik": "Aljabar",
+    "tanggal": "2026-02-04",
+    "durasi_menit": 45,
+    "created_at": "2026-02-04T00:25:47.909686"
+  },
+  {
+    "mapel": "Informatika",
+    "topik": "Study Log",
+    "tanggal": "2026-02-04",
+    "durasi_menit": 90,
+    "created_at": "2026-02-04T01:09:01.880993"
+  }
+]
